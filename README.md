@@ -1,8 +1,6 @@
 # DC-NBS-Songs
 
-这里的NBS音乐主要供 Disc-Jockey 模组演奏，此模组已打包在 DC整合包 **可选MOD** 中
-
-Disc-Jockey NBS音乐文件夹：`.minecraft\versions\【DreamCity】生存服XX.X\config\disc_jockey\songs`
+NBS音乐合集，主要供 Disc-Jockey 模组演奏。此模组已打包在 DC整合包 **可选MOD** 中
 
 ## 安装音乐包
 
