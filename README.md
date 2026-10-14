@@ -26,3 +26,7 @@ NBS音乐合集，主要供 Disc-Jockey 模组演奏。此模组已打包在 DC�
    ```shell
    git pull
    ```
+
+## 更多NBS音乐
+
+- [知名曲库&推荐合集 NyaaNBS](https://github.com/Akitsuki4852/NyaaNBS)
